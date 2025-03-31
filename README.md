@@ -7,7 +7,7 @@ npm install
 npm start
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+Head over to https://vitejs.dev/ to learn more about configuring vite, here is a preview of the page (https://devjesus-portfolio-practice.netlify.app)
 
 ## About Scrimba
 
